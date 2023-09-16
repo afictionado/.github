@@ -16,10 +16,6 @@ Sometimes AO3's UI can be a bit overwhelming for beginners, and that's one of my
 
 If this project does become a UI revamp for AO3, then that's great! I'm glad to have contributed to fanfiction in any marginally tangible sense.
 
-## Goals 🎯
+### What it does
 
-These are some goals Afictionado is always working towards:
-- Uncomplicated ways to reach fanfiction of your choice
-- Fanfic editor
-- Flexible, clean fanfic reading UI
-- Put-as-much-fluff-as-you-can account profiles
+This organization manages the development of Afictionado.
